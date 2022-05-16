@@ -1,0 +1,191 @@
+commit bd26236e56643df8b4beeb958d4fa7af0fdf1ff4
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Apr 22 11:27:31 2022 -0400
+
+    added comments, added README file, cleaned up code
+
+commit 7eceb356e18ac7ab80040a34766c82fa3e17ffce
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Apr 22 01:51:13 2022 -0400
+
+    Added templated data loop stuff, still need to add comments and make README
+
+commit b40cdd77463401a38ece9b099a1382637ec4a7b3
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Thu Apr 21 17:54:06 2022 -0400
+
+    added the function splice, passed tests
+
+commit 9e184729a4f19d4dc35163fd4d5ca27bcfccf46e
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Thu Apr 21 03:15:43 2022 -0400
+
+    all functions added besides splice which is work in progress. template stuff needs to be added
+
+commit 658d3fba36ccf55601f45f4bf5be25b26000aad4
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Thu Apr 21 00:30:11 2022 -0400
+
+    added the operator+= and the operator+ functions
+
+commit ae734ccd1021498399fa9a671070c5a301313dfc
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Mon Apr 18 16:00:29 2022 -0400
+
+    adding operator function for ==, preliminary version, testing required
+
+commit d79d2410070adda6c4d1bf31629cf6133c17c04c
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Mon Apr 18 14:14:54 2022 -0400
+
+    minor changes added to the destructor and the methods
+
+commit e8d510caef64c387157c5c63bb68a88355a9d07f
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Mon Apr 18 01:02:54 2022 -0400
+
+    Created a DataLoop.cpp file, and implemented intitial version of constructors, destructors, and overloaded assignment operator function (Rule of Three functions). Also created add and clear helper functions.
+
+commit cef844332202b467cb0d5c0fa36606ed3b38152f
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Thu Apr 7 16:10:47 2022 -0400
+
+    completed project (4/7 4:10PM)
+
+commit b8b3900b05781f059a3b6b445b9117768f314443
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Wed Apr 6 02:36:46 2022 -0400
+
+    Able to take input from input file
+
+commit 3a8fe9a30052fa7819e28564a28bb1791f3fe2ff
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Feb 25 22:11:39 2022 -0500
+
+    Working version of hw3. Comments added and errors handled.
+
+commit 0a2a1ea1a76e920e6661eba6d25e1494087a029b
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Feb 25 20:55:58 2022 -0500
+
+    Flood fill working version. test cases passed. error handling and comments to be added next
+
+commit 2d59e81f922223a9e5fd3f87c4d0b42ed63df341
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Feb 25 18:10:50 2022 -0500
+
+    Starting version of floodfill functions, currently not functional
+
+commit c7ddd58533e27b1cb6ed0b9b6133a8610c6f5113
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Feb 25 16:18:13 2022 -0500
+
+    render_ellipse function is working and tested
+
+commit e3a59d3443d4a20a69d411ff11bbb1e526d1bddd
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Feb 25 11:30:56 2022 -0500
+
+    Out of bounds issue in render_rectangle function fixed.
+
+commit ac4f2cdbba65a5a2d58ba335d0f13899e720966d
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Feb 25 03:50:55 2022 -0500
+
+    functioning render_rectangle function, only issue is that image wraps around and edge cases need to be dealt with
+
+commit a5c9abc6e4fd202777faffb3c638933ed832cb06
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Feb 25 01:27:42 2022 -0500
+
+    Wrote code for taking in command line arguments and set up the buffer containing pixel data. Wrote the rectangle function, but it is not working correctly
+
+commit 8a92e641ab82a23b1f7cbc51e17711a7983a61dd
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Thu Feb 24 21:09:28 2022 -0500
+
+    Wrote and tested write_image and geom_dist function in cs220_paint.c, created makefile to test program
+
+commit fa867ecccfea62b504f2b87df97f625f3a7ece9f
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Mon Feb 14 11:30:18 2022 -0500
+
+    exercise 10, practice with pointers
+
+commit 2e7636d38fd6334aad32c27254dc9a47ec9b06c7
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Feb 11 12:35:40 2022 -0500
+
+    Fixed new line error for gradescope autograder.
+
+commit f9f3d76630b7a58fbdbcdfb3fb50da4420bfd5d4
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Feb 11 11:44:24 2022 -0500
+
+    Added comments, preformed final tweaks in error handling.
+
+commit db3dc3735774af5767b3f5d28d4f2609b528fabc
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Feb 11 11:11:57 2022 -0500
+
+    Transposes 3x5 array into a 5x3 array
+
+commit 4ac094dd5264df2e35a1adc2396edb580db9c7b6
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Wed Feb 9 14:03:43 2022 -0500
+
+    Fixed the input checking statements. Still need to comments and check some more test inputs.
+
+commit 19b4416fa0094762961a3ce80a7bf0b36ebc4590
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Wed Feb 9 12:12:13 2022 -0500
+
+    Files for exercise 8; using multiple source files, header files, and makefiles.
+
+commit d7edc00ea5299e8e5f46b0fab1325d576e9e956c
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Mon Feb 7 11:12:50 2022 -0500
+
+    Program complete besides bsearch2
+
+commit 0e7bc1ab60ae45dc8c52347233c5894f673c0094
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Sun Feb 6 23:39:02 2022 -0500
+
+    Program is able to evaluate multi-line expressions, and error handling is also partially functional. However, some of the malformed expression test cases are outputing 0 instead of the error message.
+
+commit fdc6ae0d895b246ee89ee4fab6514ece8cd565e5
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Sun Feb 6 22:49:00 2022 -0500
+
+    Program is able to compute simple expressions.
+
+commit bc50b87a46479e3fb04f09922f3763e2d40566ec
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Thu Feb 3 19:50:51 2022 -0500
+
+    ex05 count1 working version
+
+commit 2578747ffb742d591e292ca9f4fc3c7137248253
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Wed Feb 2 11:01:28 2022 -0500
+
+    ex04 gpa working version
+
+commit c2c9e85ae11cf2d4248967e6c8b11c027ca327c2
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Mon Jan 31 11:08:27 2022 -0500
+
+    Created three files, one.c, two.c, and three.c, which print out the recipients of the first, second, and third prize, respectively.
+
+commit f5c73d11eb905dbc4d61f3b0217cf53e61e0006c
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Jan 28 10:55:46 2022 -0500
+
+    updated README
+
+commit 5f8c39b63aaf73f5d9d98b22f0d4776aa2b6bf4a
+Author: Dhruv Dubey <ddubey1@jhu.edu>
+Date:   Fri Jan 28 10:48:46 2022 -0500
+
+    created README

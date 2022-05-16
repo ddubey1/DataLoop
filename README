@@ -1,0 +1,22 @@
+Dhruv Dubey
+ddubey1
+
+This program contains the files DataLoop.cpp, DataLoop.h, DataLoopTest.cpp, TDataLoop.h, 
+TDataLoop.inc, TDataLoopTest.cpp, and the Makefile. The Makefile creates executables for
+DataLoopTest and TDataLoopTest.
+
+DataLoop.h contains the prototypes of the functions and the definition of the class DataLoop. 
+DataLoop.cpp contains the implementations of the constructors and functions in the .h file. The 
+TDataLoop files follow a similar strucutre with the .inc file containing the implementations instead
+of a .cpp file.
+
+Many of the functions are overloaded assignment operator functions which allow DataLoop objects to be
+modified by adding, splicing, concatenating, and preforming other actions. In addition, the Rule of 3
+is exemplified in this program as there exists a copy constructor, non-trivial destructor, and a 
+overloaded assignment operator.
+
+Something clever I did in my program was add two public helper functions: add and clear. The add helper method
+added a node of an inputted value to the end of the DataLoop, and the clear function was used primarily to deallocated memory.
+These helper functions served useful in removing unecessary code, and helped throughout the program.
+
+I was able to complete all parts of the program.
