@@ -1,3 +1,12 @@
+This sample contains code for a circular doubly linked list (holds int type) and a 
+templated circular doubly linked list (can hold any type). The circular doubly linked list, 
+my created data structure, has nodes that point both to the previous node and the next node. 
+Additionally, this data structure is circular, meaning that it forms a loop. Applications of 
+such as a data structure would be in round-robin processing of jobs by a computer operating system,
+turn-taking in multi-player games, and a double ended queue.
+
+-----------------------
+
 Dhruv Dubey
 ddubey1
 
